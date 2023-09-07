@@ -19,7 +19,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-
+      - name: MongoDB in GitHub Actions
+        uses: supercharge/mongodb-github-action@v1.10.0
       - name: Build and test frontend
         run: |
           cd frontend 
