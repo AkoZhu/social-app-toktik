@@ -18,10 +18,10 @@ jobs:
       - name: Build and test frontend
         run: |
           cd frontend 
-          npm ci
+          npm install
           npm test
       - name: Build and test backend
         run: |
           cd backend
-          npm ci
+          npm install
           npm test
