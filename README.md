@@ -1,6 +1,6 @@
 # Social App 
 
-[![Build and Test](https://github.com/AkoZhu/social-app-toktik/.github/workflows/build.yaml/badge.svg)](https://github.com/AkoZhu/social-app-toktik/.github/workflows/build.yaml)
+[![Build and Test](https://github.com/AkoZhu/social-app-toktik/workflows/CI/badge.svg)](https://github.com/AkoZhu/social-app-toktik/workflows/CI/badge.svg)
 
 ## Design
 Photo&amp;Video-sharing Social Network APP -  UI &amp; Architecture Design (HW1)
