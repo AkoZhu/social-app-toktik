@@ -3,7 +3,7 @@
 [![Build and Test](https://github.com/AkoZhu/social-app-toktik/workflows/CI/badge.svg)](https://github.com/AkoZhu/social-app-toktik/workflows/CI/badge.svg)
 
 ## Design
-Photo&amp;Video-sharing Social Network APP -  UI &amp; Architecture Design (HW1)
+Photo&amp;Video-sharing Social Network APP -  UI &amp; Architecture Design
 
 ## Wireframes and Prototypes
 
